@@ -1,0 +1,89 @@
+
+
+
+/* teacher */
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(229, 235, 237);
+margin: 0;
+padding: 0;
+}
+
+.add {
+    
+margin: 20px;
+}
+
+.add a {
+    /* margin-left: 50%; */
+font-size: 20px;
+text-decoration: none;
+background-color: #000000;
+color: #fff;
+padding: 10px 20px;
+border-radius: 5px;
+margin-bottom: 10px;
+display: inline-block;
+}
+
+a:hover{
+background-color:#7defb0 ;
+}
+
+
+.table {
+    margin-left: 20%;
+    margin-top: 20px;
+}
+
+.stats {
+width: 80%;
+border-collapse: collapse;
+border: 1px solid #ddd;
+}
+
+.stats th, .stats td {
+padding: 10px;
+text-align: center;
+border-bottom: 1px solid #ddd;
+}
+
+.stats th {
+background-color: #f2f2f2;
+}
+
+
+
+.empty {
+padding: 20px;
+background-color: #f8d7da;
+font-size: 20px;
+border-radius: 5px;
+color: #ec0707;
+margin-top: 20px;
+margin-left: -10%;
+width: 50%;
+}
+
+.success {
+padding: 20px;
+background-color: #d4edda;
+font-size: 20px;
+border-radius: 5px;
+color: #155724;
+margin-top: 20px;
+}
+
+.error {
+padding: 20px;
+background-color: #f8d7da;
+font-size: 20px;
+border-radius: 5px;
+color: #721c24;
+margin-top: 20px;
+}
+
+
+
+
